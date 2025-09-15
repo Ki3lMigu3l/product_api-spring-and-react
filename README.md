@@ -55,6 +55,9 @@ O React.js é uma biblioteca javascript desenvolvida pelo Facebook voltada para 
 </div>
 <br />
 
+</div>
+
+
 **Editar Produtos**: É possível realizar ações como atualziar e deletar algum produto da base de dados.
 <div align="center">
     <img src="https://github.com/Ki3lMigu3l/Spring-React-Produto-CRUD/blob/main/frontend/readme/salvando-produto.png" alt="Frontend: operações update e delete" width="650"/>
