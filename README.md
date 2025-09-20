@@ -40,8 +40,6 @@ Utilizando as anotações @Operation e @ApiResponse, conseguimos adicionar mais 
 O React.js é uma biblioteca javascript desenvolvida pelo Facebook voltada para a criação de interfaces de usuário (UI). Ele é baseado em componentes reutilizáveis, que permitem construir aplicações de forma modular, escalável e eficiente.
 
 <br>
-
-<div align="center>
     
 **Tela para adicionar Produtos**: Uma interface que permite ao usuário inserir um novo produto no banco de dados.
 <div align="center">
@@ -55,15 +53,13 @@ O React.js é uma biblioteca javascript desenvolvida pelo Facebook voltada para 
 </div>
 <br />
 
-</div>
-
 
 **Editar Produtos**: É possível realizar ações como atualziar e deletar algum produto da base de dados.
 <div align="center">
     <img src="https://github.com/Ki3lMigu3l/Spring-React-Produto-CRUD/blob/main/frontend/readme/salvando-produto.png" alt="Frontend: operações update e delete" width="650"/>
 </div>
-</div>
-  <br />
+
+<br />
 
  
 ## Conclusão
